@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="./assets/portadaGithub.jpg" alt="Plick Cabin Vibes" width="100%">
-</p>
-
 # 👋 Hola, soy Raúl Gallegos  
 ### Founder @Plick • Builder • Frontend Lover • Autodidacta
 
