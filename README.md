@@ -1,7 +1,6 @@
 
 <p align="center">
-  <img src="https://s3.plick.com.mx/typebot/public/workspaces/clne2m2fk000hqr2stwoqwicq/typebots/clp9y5xvw0001qr303u1fpgb4/results/i03x9n5b4yza3toe83sjaskg/blocks/xter1ekm2p38va7d3loceq2s/github.png
-" alt="Plick Cabin Vibes" width="100%">
+  <img src="./assets/github2(1).jpg" alt="Plick Cabin Vibes" width="100%">
 </p>
 
 # 👋 Hola, soy Raúl Gallegos  
