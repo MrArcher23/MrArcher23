@@ -1,40 +1,94 @@
-# 👋 Hola, soy Raúl Gallegos  
-### Founder @Plick • Builder • Frontend Lover • Autodidacta
+# 👋 Raúl Gallegos  
+### Founder @Plick • Product Builder • Frontend-first • Bootstrapped in México 🇲🇽
 
 No soy ingeniero de carrera.  
-No estudié en Silicon Valley.  
-No fui a bootcamps de moda.
+Aprendí a programar construyendo producto real.
 
-**Aprendí a programar por necesidad, curiosidad y terquedad.**  
+En 2019 escribí mis primeras líneas de código.  
+En la pandemia dejé de buscar tutoriales y empecé a resolver problemas reales.
 
-En 2019 escribí mis primeras líneas de código. Luego llegó la pandemia y en vez de vender cubre bocas, me dediqué a estudiar todos los días hasta que dejé de hacer “hola mundo” y empecé a buscar como solucionar un problema real con tecnologia.
+Eso terminó convirtiéndose en **Plick**, un SaaS para restaurantes que hoy opera en México y sigue evolucionando en producción.
 
-Esa obsesión terminó convirtiéndose en **Plick**, un SaaS que hoy opera en Mexico y pronto Latinoamérica y que construí desde cero con visión, disciplina y love for product.
-
----
-
-## Lo que estoy construyendo
-- **Plick** — SaaS para restaurantes en LATAM  
-- Side projects solo por diversión (y para hackear mi creatividad)  
-- Busco **cofundador tecnológico** para llevar Plick al siguiente nivel
+No construyo side projects para el portafolio.  
+Construyo sistemas que usan negocios reales.
 
 ---
 
-## Cosas que me definen
-- Soy feliz en una montaña con café, niebla y Starlink  
-- Amo el mar, especialmente Sisal, Yuc, Mex.  
-- Amo el frontend; es mi zona de flow  
-- Soy del sureste, donde muchos creen que “no hay tech”… pero sí la hay  
-- Creo en crear comunidad, compartir y construir
+## 🚀 Qué estoy construyendo
+
+### 🧩 Plick — SaaS para restaurantes en LATAM
+
+- Producto en producción  
+- Usuarios activos  
+- Iteración constante  
+- Decisiones basadas en uso real  
+
+Actualmente enfocado en:
+
+- Activación  
+- Retención  
+- Monetización  
+- Aplicación de AI para pricing y decisiones comerciales  
 
 ---
 
-## Tech Stack
-**Frontend:** React • Next.js • Tailwind • TypeScript  
+## 🛠 Tech Stack
+
+### Frontend (mi zona de flow)
+
+- React  
+- Next.js  
+- TypeScript  
+- Tailwind  
+
+Me gusta:
+
+- Interfaces limpias  
+- Performance real  
+- Pensar producto antes que código  
+- Resolver con simplicidad  
 
 ---
 
-## 📫 Cómo contactarme
-- ✉️ raul.gh@plick.com.mx  
-- 🌐 https://plick.com.mx  
+## 🧠 Cómo pienso
 
+- Lanzar imperfecto > pensar infinito  
+- El producto se entiende en uso  
+- El feedback real incomoda, pero aclara  
+- Construir > hablar de construir  
+
+No estoy documentando éxito.  
+Estoy documentando proceso.
+
+---
+
+## 🌎 Construyendo desde el sureste de México
+
+Muchos creen que aquí no hay tech.  
+La realidad es que sí la hay.  
+Solo no hace ruido.
+
+Trabajo feliz desde:
+
+- Montaña con café y niebla  
+- El mar en Sisal  
+- Cualquier lugar con conexión estable  
+
+---
+
+## 🤝 Busco conectar/construir con personas que:
+
+- Piensen en arquitectura  
+- Disfruten backend complejo  
+- Les guste iterar rápido  
+- No necesiten hype para motivarse  
+- Quieran construir algo grande desde LATAM  
+
+Si eso resuena contigo, hablemos.
+
+---
+
+## 📫 Contacto
+
+✉️ raul.gh@plick.com.mx  
+🌐 https://plick.com.mx  
